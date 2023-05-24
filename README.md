@@ -14,3 +14,9 @@
 ## Anatomy (Blender)
 
 ![image](https://github.com/RuanLinya/Webcam-based-Magic-Mirror/assets/133128176/7260ba28-0f2e-4f84-95c4-5087d06272a1)
+
+## Demo
+https://youtu.be/0CG_o159O_4
+
+https://youtu.be/73LPnaHO6pM
+
