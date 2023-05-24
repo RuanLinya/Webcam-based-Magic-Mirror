@@ -16,7 +16,12 @@
 ![image](https://github.com/RuanLinya/Webcam-based-Magic-Mirror/assets/133128176/7260ba28-0f2e-4f84-95c4-5087d06272a1)
 
 ## Demo
+<img width="272" alt="image" src="https://github.com/RuanLinya/Webcam-based-Magic-Mirror/assets/133128176/68779ce2-bccb-4822-b5b0-79a63580f640">
+
 https://youtu.be/0CG_o159O_4
+
+
+<img width="354" alt="image" src="https://github.com/RuanLinya/Webcam-based-Magic-Mirror/assets/133128176/b0400a87-d155-4454-8d27-9a3f40cbe23f">
 
 https://youtu.be/73LPnaHO6pM
 
